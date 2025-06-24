@@ -23,7 +23,7 @@ link:https://drive.google.com/file/d/1vIwR1l8w_P_GNkL1dNMbMhFEbHczlFFy/view[Пр
 Поддержка отказоустойчивости, мониторинга, безопасности
 
 == Roadmap 
-link:https://tracker.yandex.ru/pages/projects/2/gantt[Диаграмма Ганта]
+image:req/api/image/Диаграмма Ганта.png[Диаграмма Ганта]
 
 == Команда проекта
 link:https://tracker.yandex.ru/pages/projects/2[Команда]
