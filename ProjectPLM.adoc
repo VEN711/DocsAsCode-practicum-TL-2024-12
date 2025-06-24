@@ -90,14 +90,14 @@ link:https://docs.google.com/document/d/1IsVy2qB7SYHDlA1oS0xagQuf3pPbEUCcM85ILwP
 == Архитектура проекта
 link:https://docs.google.com/document/d/1crFTvXlBzWO5yg0GOUXJlhSVGzGcgHoKmz8yqd_A5UE/edit?tab=t.0[Архитектура]
 
-Контекстная диаграмма
-image:req/api/image/Диаграмма Контекстная.png
 
-Контейнерная диаграмма
-image:req/api/image/Диаграмма Контейнеров.png
+image:req/api/image/Диаграмма Контекстная.png[Контекстная диаграмма]
 
-Компонентная диаграмма
-image:req/api/image/Диаграмма Компонентов.png
+
+image:req/api/image/Диаграмма Контейнеров.png[Контейнерная диаграмма]
+
+
+image:req/api/image/Диаграмма Компонентов.png[Компонентная диаграмма]
 
 == Безопасность и нефункциональные требования
 Методология: ISO/IEC 27001
